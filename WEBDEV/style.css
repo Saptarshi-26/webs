@@ -1,0 +1,129 @@
+.blue{
+ background-color:  #BF2EF0;
+
+}
+html{
+  background-image: url("https://i.pinimg.com/564x/da/c9/b8/dac9b8c6472c1cdad6c265f61a9b9524.jpg");
+}
+h2{
+  background-color: skyblue;
+  border: 2px solid black;
+  width: 400px;
+}
+h1{
+  border: 5px solid black;
+  
+  font-style: italic;
+color:yellow;
+}
+.hello h4{
+  width: 300px;
+  height: inherit;
+  background-color: aliceblue;
+  color: firebrick;
+}
+.insidecolour{
+  font-family: Arial, Helvetica, sans-serif !important;
+  background-color: antiquewhite !important;
+}
+.vedio{
+  background-color: black;
+   width: 505px;height: 252px;
+   padding: 5px;
+  border: 14px solid violet;
+  margin: 0px;
+}
+.side{
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  color: darkred;
+  left: 550px;
+  bottom: 250px;
+  width: 500px;
+  height: 300px;
+}
+.relative{
+  position: relative;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+
+}
+.circle{
+  position: absolute;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;;
+}
+.circle h5{
+  position: relative;
+  top: 60px;
+  left: 80px;
+  color: white;
+
+}
+.vedio2{
+  position: relative;
+  left: 524px;
+  bottom: 350px;
+  background-color: black;
+  width: 505px;height: 250px;
+  border: 14px solid rgb(0, 0, 255);
+  padding: 10px;
+}
+.vedio2 h2{
+  font-style: italic;
+}
+.vedio2 h5{
+  position: relative !important;
+  right: 550px;
+  bottom: 350px;
+  color: firebrick;
+  font-size: larger;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+.flag{
+  bottom: 100%;
+  position: relative;
+ background-color: white;
+ width: 400px;
+ height: 200px;
+}
+.w{
+  position: absolute;
+   background-color: orange;
+   width: 400px;
+   height: 75px;
+}
+.g{
+  position: absolute;
+  background-color: green;
+  width: 400px;
+  height: 75px;
+  top: 150px;
+}
+.flag .circle{
+  background-color: white;
+  border: solid  blue;
+  border-radius: 50%;
+ width: 75px;
+ height: 70px;
+top: 75px;
+left: 150px;
+}
+
+img{
+  position: relative;
+  bottom: 360px;
+  line-height: 1.2;
+ float: left;
+}
+.top{
+  position: relative;
+  bottom: 372px;
+}
